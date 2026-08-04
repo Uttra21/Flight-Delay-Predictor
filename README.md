@@ -44,7 +44,7 @@ The trained model then estimates:
 - **On-Time Probability**
 - **Delay Risk Level**
 
-> Deployment link will be added here after deployment.
+> [Depl(https://flight-delay--predictor.streamlit.app/)
 
 ---
 
