@@ -1,11 +1,16 @@
+# Large training dataset
+data/flights.csv
+
+# Virtual environment
 venv/
+
+# Python cache
 __pycache__/
 *.pyc
 
+# Jupyter
 .ipynb_checkpoints/
 
-data/
-*.csv
-
+# Environment / system files
 .env
 .DS_Store
